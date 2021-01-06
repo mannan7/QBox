@@ -1,0 +1,14 @@
+# TODO: CRIO_TASK_MODULE_DEBUGGING
+    # Task: Populate the value for each line below
+
+Average time taken for Upload of 1GB file: 13.81 seconds
+Average time taken for Download of 1GB file: 13.14 seconds
+Average memory taken during Upload of 1GB file: 0 MB
+Average memory taken during Download of 1GB file: 0  MB
+Any increase in memory taken by QBox Server after each upload: c MB
+Any increase in memory taken by QBox Server after each download: d MB
+Average CPU taken for Upload of 1GB file: 9.85%
+Average CPU taken for Download of 1GB file: 3.5%
+File permissions for uploaded file: -rw-r--r--
+File checksum same at source and destination for Upload: yes 
+File checksum same at source and destination for Download: yes

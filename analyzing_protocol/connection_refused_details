@@ -1,0 +1,1 @@
+A ack/rst flag is sent from server to abruptly terminate the transmission, rst means the connection is reset or broken between the client and server.

@@ -1,0 +1,4 @@
+  
+Command used to check the file permissions: ls -ltr, ls -ltarh
+
+Permissions for the uploaded file in the faulty version: -rw-------

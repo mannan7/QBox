@@ -1,0 +1,1 @@
+Basically first client is sending a syn flag with seq=0, then server replies with an acknowledgement seq=0/ack=1, the client sends back a acknowledgement=1 and the connection is established.

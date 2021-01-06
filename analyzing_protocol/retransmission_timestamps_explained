@@ -1,0 +1,5 @@
+0.4120,1.2635,3.7360,11.2050,33.6150
+0.8515,2.4725,7.445,22.41
+increasing
+tn+1=3*tn
+Possible reasons can be packet loss, out-of-order,etc.

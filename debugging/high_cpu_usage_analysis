@@ -1,0 +1,1 @@
+I was monitoring the child process os vsftpd in which memory usage of file tranfer was happening and monitoring the cpu% column which showed a 100% cpu usage

@@ -1,0 +1,2 @@
+113,969,1273,1936,4081
+The client didn't recieve the previous packet due to some reasons so it requests a retransmition. This is a good sign for a networks that is is recovering from any data loss, and self handling transmission errors on its own.

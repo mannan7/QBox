@@ -1,0 +1,1 @@
+The ftp service was closed everytime I requested a download from server using get regardless of file sizes in vsftpd v2 and v3.

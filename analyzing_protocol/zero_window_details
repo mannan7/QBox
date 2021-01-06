@@ -1,0 +1,2 @@
+117,955,1747,1774,2780,4058
+The window size in the TCP header is noramlly set by the TCP stack software to reflect the size of the buffer space available. If server is sending packets with a window set to zero, it probably because the client is sending data faster than the application running on the server is reading it, and the buffers associated with the TCP connection are now full.
